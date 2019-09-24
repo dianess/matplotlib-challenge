@@ -1,1 +1,1 @@
-# matplotlib-challenge
+In this matplotlib challenge, I compared several different drugs that are being tested on mice in order to decrease the tumor volume in mice.  I re-organized the data, calculated important numbers for analysis, and displayed the results in graphs. I have also included the document "Pymaceuticals Data Analysis" in which I have analyzed the effectiveness of the drugs and my recommendations for further research.
